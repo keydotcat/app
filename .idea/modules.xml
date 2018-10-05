@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/keycatapp.iml" filepath="$PROJECT_DIR$/keycatapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keycatapp_android.iml" filepath="$PROJECT_DIR$/keycatapp_android.iml" />
+    </modules>
+  </component>
+</project>
