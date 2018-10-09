@@ -27,7 +27,7 @@ class KeycatApp extends StatelessWidget {
         // Widgets will find and use this value as the `Store`.
         store: store,
         child: new MaterialApp(
-            theme: new ThemeData(fontFamily: 'SourceSansPro'),
+            theme: new ThemeData(fontFamily: 'Lato'),
             title: 'Keycat',
             home: LoginScreen()));
   }
